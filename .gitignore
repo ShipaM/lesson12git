@@ -3,7 +3,6 @@
 /.git/
 package-lock.json
 /build/
-/app/css/
 /**/_backstage
 /**/Thumbs.db
 /**/*.DS_Store
