@@ -10,7 +10,7 @@
 
 ## clone the project:
 
-git clone  https://github.com/ShipaM/homework13.git
+git clone  https://github.com/ShipaM/lesson12git.git
 
 ## upload npm packages
 
